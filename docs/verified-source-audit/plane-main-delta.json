@@ -1,0 +1,29 @@
+{
+  "upstream": "https://github.com/makeplane/plane.git",
+  "pinned_commit": "290383d7f92fa8995ea2adbd12442220b3b9b525",
+  "destination_main_sha": "0e98004a8af08643881386ff213a082cf61141a6",
+  "upstream_tracked_entries": 5188,
+  "destination_tracked_entries": 5180,
+  "missing_paths": [
+    ".github/workflows/build-branch.yml",
+    ".github/workflows/check-version.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/copyright-check.yml",
+    ".github/workflows/feature-deployment.yml",
+    ".github/workflows/i18n-sync-check.yml",
+    ".github/workflows/migration-check.yml",
+    ".github/workflows/pull-request-build-lint-api.yml",
+    ".github/workflows/pull-request-build-lint-web-apps.yml",
+    ".github/workflows/react-doctor.yml"
+  ],
+  "missing_path_count": 10,
+  "missing_upstream_ci_count": 10,
+  "missing_other_count": 0,
+  "mismatched_objects": [],
+  "mismatched_count": 0,
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ],
+  "extra_count": 2
+}
