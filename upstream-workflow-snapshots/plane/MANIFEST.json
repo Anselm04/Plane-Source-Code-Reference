@@ -1,0 +1,68 @@
+{
+  "source": "https://github.com/makeplane/plane.git",
+  "commit": "290383d7f92fa8995ea2adbd12442220b3b9b525",
+  "number_of_original_workflow_files": 10,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/build-branch.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/build-branch.yml",
+      "git_blob": "b6eaaced283986c116fec11075d24ab0292318bb",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/check-version.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/check-version.yml",
+      "git_blob": "15ae76fac32449cfd8409e2f963aaef6e6caf010",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/codeql.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/codeql.yml",
+      "git_blob": "9414b09008b00b4ff713702cfaeb87647cf85633",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/copyright-check.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/copyright-check.yml",
+      "git_blob": "b406833a8277e8f0c716bd014ee8cdc3797829e4",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/feature-deployment.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/feature-deployment.yml",
+      "git_blob": "f7ade5e169d74bdfcd72ca1dc36225aa032f2d11",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/i18n-sync-check.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/i18n-sync-check.yml",
+      "git_blob": "4b2a6bba3de8dc2cbc08821883e5cd5bf6ad8224",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/migration-check.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/migration-check.yml",
+      "git_blob": "33b40c5a2ba48ff83dfbf67169389318eb549981",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pull-request-build-lint-api.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/pull-request-build-lint-api.yml",
+      "git_blob": "7fc351e57caab5a510979741606e27175a7efe97",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pull-request-build-lint-web-apps.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/pull-request-build-lint-web-apps.yml",
+      "git_blob": "9999ed848d52e61f4d498133782682ab6de22c93",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/react-doctor.yml",
+      "reference_path": "upstream-workflow-snapshots/plane/.github/workflows/react-doctor.yml",
+      "git_blob": "ab65edf473872a000765f50fc4ea3636f88eed0b",
+      "original_mode": "100644"
+    }
+  ]
+}
